@@ -12,3 +12,7 @@ Nailed: Hidden camera app
 https://github.com/collideorscopeapps/Nailed
 Notes: source only, not published on stores yet/you need to compile it yourself
 Tries on Android 8
+
+== Useful links ==
+https://playsearch.kaki87.net/ advanced search for google play store
+https://android.stackexchange.com/questions/34759/advanced-searching-in-play-app-store 
